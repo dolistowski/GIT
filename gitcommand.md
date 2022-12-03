@@ -172,6 +172,3 @@
 ## cherry-pick
 
 * **git cherry-pick {commi1} {commit2}** - kopiuje commity w kolejności w jakiej je zapisałeś do brancha na którym jesteś.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzc1NzE4NF19
--->
